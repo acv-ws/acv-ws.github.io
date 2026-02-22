@@ -1,5 +1,3 @@
-# ACV 2026
-
 1st Workshop on Abstract and Concrete Techniques in Verification (ACV 2026)
 
 Affiliated with [LICS 2026](https://lics.siglog.org/lics26/) & [CAV 2026](https://lics.siglog.org/lics26/), at [FLoC 2026](www.floc26.org) in Lisbon, Portugal
