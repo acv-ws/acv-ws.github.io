@@ -1,4 +1,4 @@
-[//]: # "ACV Workshop Series"
+# ACV Workshop Series
 
 
 Workshops on Abstract and Concrete Techniques in Verification
